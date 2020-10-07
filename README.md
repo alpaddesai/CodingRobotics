@@ -1,6 +1,6 @@
-# Robotics
+# Machines
 
-The certificate provides introduction to coding Robotics. All images are custom by Alpa D. Desai 
+The certificate provides introduction to machines. All images are custom by Alpa D. Desai 
 
 ## Robotics
 ![image](RoboticsCertificate.jpg)
