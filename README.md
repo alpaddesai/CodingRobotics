@@ -1,4 +1,4 @@
-# Coding Robotics
+# Robotics
 
 The certificate provides introduction to coding Robotics. All images are custom by Alpa D. Desai 
 
